@@ -1,0 +1,108 @@
+[
+    {
+      "name": "France",
+      "region": "Europe",
+      "population": 67.5,
+      "image": "images/france.jpg",
+      "countryCode": "FR"
+    },
+    {
+      "name": "Spain",
+      "region": "Europe",
+      "population": 47.3,
+      "image": "images/spain.jpg",
+      "countryCode": "ES"
+    },
+    {
+      "name": "Denmark",
+      "region": "Europe",
+      "population": 5.857,
+      "image": "images/denmark.jpg",
+      "countryCode": "DK"
+    },
+    {
+      "name": "China",
+      "region": "Asia",
+      "population": 1412,
+      "image": "images/china.jpg",
+      "countryCode": "CN"
+    },
+    {
+      "name": "Italy",
+      "region": "Europe",
+      "population": 59.07,
+      "image": "images/italy.jpg",
+      "countryCode": "IT"
+    },
+    {
+      "name": "Kenya",
+      "region": "Africa",
+      "population": 54.99,
+      "image": "images/kenya.jpg",
+      "countryCode": "KE"
+    },
+    {
+      "name": "Mexico",
+      "region": "Americas",
+      "population": 130.3,
+      "image": "images/mexico.jpg",
+      "countryCode": "MX"
+    },
+    {
+      "name": "Thailand",
+      "region": "Asia",
+      "population": 69.95,
+      "image": "images/thailand.jpg",
+      "countryCode": "TH"
+    },
+    {
+      "name": "Brazil",
+      "region": "Americas",
+      "population": 214,
+      "image": "images/brazil.jpg",
+      "countryCode": "BR"
+    },
+    {
+      "name": "Japan",
+      "region": "Asia",
+      "population": 125.7,
+      "image": "images/japan.jpg",
+      "countryCode": "JP"
+    },
+    {
+      "name": "Australia",
+      "region": "Oceania",
+      "population": 25.74,
+      "image": "images/australia.jpg",
+      "countryCode": "AU"
+    },
+    {
+      "name": "Greece",
+      "region": "Europe",
+      "population": 10.66,
+      "image": "images/greece.jpg",
+      "countryCode": "GR"
+    },
+    {
+      "name": "Singapore",
+      "region": "Asia",
+      "population": 5.454,
+      "image": "images/singapore.jpg",
+      "countryCode": "SG"
+    },
+    {
+      "name": "Egypt",
+      "region": "Africa",
+      "population": 104.3,
+      "image": "images/egypt.jpg",
+      "countryCode": "EG"
+    },
+    {
+        "name": "Maldives",
+        "region": "Asia",
+        "population": 0.543,
+        "image": "images/maldives.jpg",
+        "countryCode": "MV"
+      }
+  ]
+  
