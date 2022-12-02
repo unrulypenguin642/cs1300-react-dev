@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 
-https://unrulypenguin642.github.io/cs1300-development/
+https://unrulypenguin642.github.io/cs1300-react-dev/
 
 ### Goal and Value of the Application
 
